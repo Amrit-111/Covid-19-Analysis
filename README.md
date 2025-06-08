@@ -7,6 +7,7 @@ Exploratory data analysis on COVID-19 infection rates and their correlation with
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+---
 
 🗂️ Project Description:
 In this analysis, we aim to:
@@ -27,6 +28,7 @@ Healthy life expectancy
 
 Freedom to make life choices
 
+---
 
 🧰 Tools & Technologies Used:
 Python
@@ -37,12 +39,14 @@ Matplotlib, Seaborn – data visualization
 
 Jupyter Notebook – interactive analysis
 
+---
 
 📁 Dataset Sources:
 COVID-19 Confirmed Cases Dataset (Johns Hopkins University)
 
 World Happiness Report 2020
 
+---
 
 🔍 Key Steps:
 Load and clean COVID-19 data.
@@ -55,12 +59,14 @@ Merge with World Happiness data.
 
 Visualize relationships using scatter plots and regression lines.
 
+---
 
 📊 Visual Insights:
 Countries with higher GDP per capita and better social support systems tend to have varied infection rate trends.
 
 Log-transformed infection rates show clearer relationships in scatter plots.
 
+---
 
 🚀 How to Run:
 Clone the repo.
@@ -71,6 +77,7 @@ Ensure the dataset paths are correctly set.
 
 Run all cells to reproduce the results and visualizations.
 
+---
 
 📌 Folder Structure:
 Copy
@@ -80,6 +87,7 @@ Edit
 ├── worldwide_happiness_report.csv
 └── README.md
 
+---
 
 💡 Conclusion:
 This project demonstrates how health crises like COVID-19 can be quantitatively analyzed and correlated with socio-economic indicators to draw deeper insights. It also showcases the power of combining multiple datasets for storytelling with data.
